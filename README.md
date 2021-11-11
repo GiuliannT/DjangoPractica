@@ -1,6 +1,9 @@
 # DjangoPractica
 Creado con Django, con algunas implementaciones del proyecto Informatorio 2021 segunda etapa.
-El Django administration, es similar al del proyecto info2021 segunda etapa https://www.youtube.com/watch?v=JmfkzYNqMJI&ab_channel=GrupoNro8Informatorio2021
+
+El Django administration, es similar al del proyecto info2021 segunda etapa:
+https://github.com/Nemo3003/Proyecto_Final_G_8
+https://www.youtube.com/watch?v=JmfkzYNqMJI&ab_channel=GrupoNro8Informatorio2021
 
 Inicio
 ![1](https://user-images.githubusercontent.com/88043910/141329248-2c50de9e-4efc-4d7f-9200-f081098b304f.png)
